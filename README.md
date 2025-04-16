@@ -10,7 +10,7 @@
   </tr>
 </table>
 <ul>
-  <li> 👨‍💻🎨 Desenvolvedora <em> aprendizado Front-end</li>
+  <li> 👨‍💻🎨 Desenvolvedora aprendiz de Front-end</li>
   <li> 📖🚧 Cursando o Superior em ADS - Faculdade SENAC (fev/24 - Atual)</li>
 </ul>
 
